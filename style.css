@@ -1,0 +1,38 @@
+body {
+    background-color:#F7E7DC;
+    
+}
+.content-1{
+    max-width: 1253px;
+    margin-left:auto ;
+    margin-right: auto;
+}
+
+.container-gambar{
+    display:flex ;
+    justify-items: center;
+}
+.gambar-rinjani {
+    width: 100%;
+    max-width:  800px; 
+    margin-left:auto ;
+    margin-right: auto;
+}
+.container-navbar{
+  background-color:#D6EFD8 ;
+}
+
+.ul-navbar {
+    background-color: #405D72;
+    display: flex;
+    gap:2rem ;
+}
+
+.li-navbar{
+    color:#F7E7DC;
+    list-style-type: none;
+    padding-left:0;
+    padding-right:0 ;
+    padding-top:2rem ;
+    padding-bottom:2rem ;
+}
